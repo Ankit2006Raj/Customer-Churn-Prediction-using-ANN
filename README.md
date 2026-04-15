@@ -27,9 +27,9 @@ Predicts whether a bank customer will churn using an Artificial Neural Network b
 ## Results
 
 ![Results](churn_ann_results.png)
+<img width="1290" height="1184" alt="image" src="https://github.com/user-attachments/assets/88603ab4-89ee-4037-bc5f-9a81824dc4e9" />
+<img width="1094" height="888" alt="image" src="https://github.com/user-attachments/assets/6783aca0-aa0b-4b41-9c29-dac9351a496d" />
 
-![Screenshot 1](Image/Screenshot%202026-04-10%20at%202.17.57%20PM.png)
-![Screenshot 2](Image/Screenshot%202026-04-10%20at%202.18.20%20PM.png)
 
 ## Tech Stack
 
