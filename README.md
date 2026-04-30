@@ -1,6 +1,6 @@
 # Customer Churn Prediction using ANN
 
-Predicts whether a bank customer will churn using an Artificial Neural Network built with TensorFlow/Keras on a dataset of 10,000 customers.
+Predicts whether a bank customer will churn using an Artificial Neural Network built with TensorFlow/Keras on a dataset of 10,000 customer.
 ## Deploy Link
 https://customer-churn-prediction-using-ann-cb3mgcebiwe4h5ufcqjphn.streamlit.app/
 
