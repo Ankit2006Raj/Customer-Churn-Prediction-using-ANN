@@ -39,10 +39,10 @@ Python · TensorFlow/Keras · Scikit-learn · Pandas · NumPy · Matplotlib · S
 
 ## Installation & Usage
 
-```bash
+``bash
 pip install tensorflow scikit-learn pandas numpy matplotlib seaborn
 python churn_ann.py
-```
+``
 
 ## Connect with Me
 
